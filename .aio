@@ -1,0 +1,29 @@
+{
+  "cna": {
+    "web": "react-app",
+    "dist": "react-app/build"
+    "runScript": "start",
+    "buildScript": "build"
+  },
+  "project": {
+    "id": "4566206088344543935",
+    "name": "cnadev",
+    "title": "cna dev project",
+    "org": {
+      "id": "23294",
+      "name": "Adobe IO DEV",
+      "ims_org_id": "6578A55456E84E247F000101@AdobeOrg"
+    },
+    "workspace": {
+      "id": "4566206088344544212",
+      "name": "Production",
+      "title": "Production",
+      "action_url": "https://23294-cnadev.adobeioruntime.net",
+      "app_url": "https://23294-cnadev.adobeio-static.net",
+      "details": {
+        "credentials": [],
+        "services": []
+      }
+    }
+  }
+}
